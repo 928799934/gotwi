@@ -7,6 +7,7 @@ gotwi
 
 This is a library for using the Twitter API v2 in the Go language. (It is still under development).
 
+
 # Supported APIs
 
 [Twitter API Documentation | Docs | Twitter Developer Platform  ](https://developer.twitter.com/en/docs/twitter-api)
@@ -375,4 +376,3 @@ See [_examples](https://github.com/michimani/gotwi/tree/main/_examples) director
 # Author
 
 [michimani210](https://twitter.com/michimani210)
-
